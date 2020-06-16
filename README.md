@@ -1,4 +1,4 @@
-# Clean-Label Backdoor Attacks on Video Recognition Models, CVPR2020
+# Clean-Label Backdoor Attacks on Video Recognition Models
 ## Introduction:
 * Dataset: UCF101  Model: I3D
 * Environment: python3.6.5 tensorflow-gpu1.14
